@@ -109,6 +109,17 @@ p.main {
 }
 
 
+#CON19 {
+  position: relative;
+  left: 20px;
+}
+
+#MapOn {
+  position: relative;
+  left: 20px;
+}
+
+
 
 .title { 
   color : rgb(56, 90, 5); 
